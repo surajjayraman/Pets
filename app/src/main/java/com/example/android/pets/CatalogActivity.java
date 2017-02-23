@@ -33,6 +33,7 @@ import com.example.android.pets.data.PetContract.PetEntry;
 /**
  * Displays list of pets that were entered and stored in the app.
  * This is git enabled version.
+ * Implement a Cursor Adapter
  */
 public class CatalogActivity extends AppCompatActivity {
 
